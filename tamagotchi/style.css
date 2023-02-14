@@ -1,0 +1,59 @@
+body{
+    overflow: hidden;
+  }
+  
+  .pet{
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .cont-imagen{
+    width: 400px;
+  }
+  
+  .boton{
+    padding: 6px 50px;
+    background: #777;
+    color: #f2f2f2;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .boton:hover{
+    background: #222;
+  }
+  
+  .boton:active{
+    background: #777;
+  }
+  
+  .barra{
+    width: 100px;
+    background: #99cc00;
+    margin: 5px 10px;
+    border-radius:4px;
+    padding: 3px 3px;
+  }
+  
+  .lado{
+    float:left;
+    margin: 10px 25px;
+    width: 120px;
+  }
+  
+  #Botones{
+    padding: 115px 0px;
+  }
+  
+  #imagen{
+    padding: 0px 0px;
+    position: relative;
+    left:200px;
+    top: 100px;
+  }
+  
+  #mensaje{
+    color: red;
+  }
